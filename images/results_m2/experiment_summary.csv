@@ -1,0 +1,11 @@
+image_id,configuration,blackhat_threshold,min_component_area_px,kernel_size_px,close_iterations,foreground_pixels,foreground_fraction,component_count,largest_component_area_px
+Img1.png,A,12,12,9,1,3404,0.010806,39,746
+Img1.png,B,24,12,9,1,1235,0.003921,16,422
+Img2.png,A,12,12,9,1,25676,0.082089,419,4724
+Img2.png,B,24,12,9,1,6791,0.021711,124,1797
+Img3.png,A,12,12,9,1,2318,0.011273,5,2243
+Img3.png,B,24,12,9,1,1685,0.008195,1,1685
+Img4.png,A,12,12,9,1,19528,0.093503,228,2687
+Img4.png,B,24,12,9,1,5253,0.025152,90,786
+Img5.png,A,12,12,9,1,153629,0.097675,4690,4558
+Img5.png,B,24,12,9,1,10627,0.006756,270,3032
