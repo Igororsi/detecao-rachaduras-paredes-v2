@@ -184,9 +184,7 @@ Os integrantes são responsáveis pela execução, validação e compreensão do
 
 ## Vídeo M2
 
-Inserir aqui o link do vídeo no YouTube como não listado.
-
-O vídeo deverá apresentar a evolução desde a M1, execução do código, resultados intermediários, comparação experimental, limitações e plano da M3.
+https://youtu.be/BmqG4DorHOQ
 
 # Vídeo da M1
 
